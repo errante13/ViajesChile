@@ -6,16 +6,19 @@
 }
 .barra{
 
-    /* background-color: aqua; */
+    /* background-color:transparent; */
     font-size: 1.2em;
     color: white;
     padding:1% 5%;
     
 }
-section .wrapper{
+section {
+    
     padding: 2%;
     background-color: black;
 }
+
+
  h3{
     text-align: center;
     color: white;
@@ -29,7 +32,8 @@ section .wrapper{
     color: #ffffff;
     background-color: #0dc9f2;
     }
-.wrapper p{
+.container p{
+    
     font-size: 0.9em;
     color: #ffffff;
     text-align: justify;
